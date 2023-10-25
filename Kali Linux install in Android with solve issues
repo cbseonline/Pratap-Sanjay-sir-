@@ -1,0 +1,80 @@
+→ open termux application then type- 
+→type termux-change-repo
+
+bscience repository then ok 6 mirrors by Albatross Hosted on termux.
+
+apt update && apt upgrade
+
+apt install wget
+
+wget -O install https:// offs.ec/2MceZWr
+ls
+chmod  777 install
+./install
+
+Amrh full version (Press 1)
+
+Nh
+
+Kex passwd
+Password -........
+Verify -.........
+
+nh kex
+
+Then install nethunter kex and setup Port No.
+
+For fix issue -
+
+Stop nh from Ctrl+ X or z
+
+nh 
+sudo su
+cd /etc/apt
+ls
+nano sources.list   ( # remove form last line then save)
+apt update
+cd ..
+pwd
+nano resolv.conf
+
+   (Setup -
+nameserver 8.8.8.8
+#options edns0 trust-ad
+#Search whitedome.com.au)
+
+ping google.com
+Ctrl+c
+apt update
+Kex
+(Setup -
+Password -...)
+now check VNS server
+apt install dbux-x11
+
+Now again check VNS server
+
+wget https://raw.githubusercontent.com/wahasa/nethun ter/main/Desktop/xfce-kde.sh && chmod +x xfce-kde.sh &&
+./xfce-kde.sh
+
+sudo su
+kex
+kex stop
+ 
+Now issue then 
+
+nh 
+sudo su
+nano .vnc/xstartup 
+
+
+( setup it-
+
+exec /usr/bin/startkde
+
+#startxfce4
+Ctrl +s
+Ctrl + x
+)
+
+Done 👍
